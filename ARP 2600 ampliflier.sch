@@ -146,7 +146,7 @@ U 1 1 5850D976
 P 3550 4675
 F 0 "U1" H 3000 5900 50  0000 C CNN
 F 1 "TDA7269A" H 3525 4675 100 0000 C CNN
-F 2 "w_to:Multiwatt11" H 4500 5025 60  0001 C CNN
+F 2 "MyModules:Multiwatt11-6400BG" H 4500 5025 60  0001 C CNN
 F 3 "" H 4500 5025 60  0000 C CNN
 	1    3550 4675
 	1    0    0    -1  
@@ -549,7 +549,7 @@ U 1 1 5851331E
 P 6450 2675
 F 0 "P3" H 6450 2925 50  0000 C CNN
 F 1 "CONN_01X04" V 6550 2675 50  0000 C CNN
-F 2 "Connectors_Terminal_Blocks:TerminalBlock_Pheonix_MPT-2.54mm_4pol" H 6450 2675 60  0001 C CNN
+F 2 "w_conn_mpt:mpt_0,5%2f4-2,54" H 6450 2675 60  0001 C CNN
 F 3 "" H 6450 2675 60  0000 C CNN
 	1    6450 2675
 	-1   0    0    1   
@@ -574,7 +574,7 @@ U 1 1 58513E1F
 P 1675 4400
 F 0 "P1" H 1675 4650 50  0000 C CNN
 F 1 "CONN_01X04" V 1775 4400 50  0000 C CNN
-F 2 "Connectors_Terminal_Blocks:TerminalBlock_Pheonix_MPT-2.54mm_4pol" H 1675 4400 60  0001 C CNN
+F 2 "w_conn_mpt:mpt_0,5%2f4-2,54" H 1675 4400 60  0001 C CNN
 F 3 "" H 1675 4400 60  0000 C CNN
 	1    1675 4400
 	-1   0    0    1   
@@ -611,7 +611,7 @@ U 1 1 5851432C
 P 6250 4675
 F 0 "P2" H 6250 4925 50  0000 C CNN
 F 1 "CONN_01X04" V 6350 4675 50  0000 C CNN
-F 2 "Connectors_Terminal_Blocks:TerminalBlock_Pheonix_MPT-2.54mm_4pol" H 6250 4675 60  0001 C CNN
+F 2 "w_conn_mpt:mpt_0,5%2f4-2,54" H 6250 4675 60  0001 C CNN
 F 3 "" H 6250 4675 60  0000 C CNN
 	1    6250 4675
 	1    0    0    -1  
@@ -724,7 +724,7 @@ U 1 1 585161CB
 P 10625 2675
 F 0 "P4" H 10625 2925 50  0000 C CNN
 F 1 "CONN_01X04" V 10725 2675 50  0000 C CNN
-F 2 "Connectors_Terminal_Blocks:TerminalBlock_Pheonix_MPT-2.54mm_4pol" H 10625 2675 60  0001 C CNN
+F 2 "w_conn_mpt:mpt_0,5%2f4-2,54" H 10625 2675 60  0001 C CNN
 F 3 "" H 10625 2675 60  0000 C CNN
 	1    10625 2675
 	1    0    0    -1  
