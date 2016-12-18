@@ -230,10 +230,10 @@
     )
   )
 
-  (module MyModules:5MM-POL-CAP (layer F.Cu) (tedit 5851C5A3) (tstamp 5851A073)
+  (module MyModules:5MM-POL-CAP (layer F.Cu) (tedit 5855AAEC) (tstamp 5851A073)
     (at 144 86 90)
     (path /5850FB9A)
-    (fp_text reference C3 (at -7.75 1.75 180) (layer F.SilkS)
+    (fp_text reference C3 (at -7.75 -0.25 180) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
     )
     (fp_text value 1000µ (at 0 3.5 90) (layer F.SilkS) hide
@@ -254,10 +254,10 @@
     )
   )
 
-  (module MyModules:5MM-POL-CAP (layer F.Cu) (tedit 5851C5A0) (tstamp 5851A079)
+  (module MyModules:5MM-POL-CAP (layer F.Cu) (tedit 5855AAE8) (tstamp 5851A079)
     (at 158 86 270)
     (path /5850EE79)
-    (fp_text reference C4 (at -7.5 -2.25 360) (layer F.SilkS)
+    (fp_text reference C4 (at 7.75 0 360) (layer F.SilkS)
       (effects (font (size 1.5 1.5) (thickness 0.15)))
     )
     (fp_text value 1000µ (at 0 3.5 270) (layer F.SilkS) hide
