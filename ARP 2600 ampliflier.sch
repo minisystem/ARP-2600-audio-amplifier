@@ -234,7 +234,7 @@ $EndComp
 Wire Wire Line
 	3550 6225 3550 6350
 Wire Wire Line
-	3675 6275 3550 6275
+	3225 6275 3675 6275
 Connection ~ 3550 6275
 $Comp
 L R_US R7
@@ -881,4 +881,6 @@ F 3 "" H 1450 5975 60  0000 C CNN
 	1    1450 5975
 	1    0    0    -1  
 $EndComp
+Wire Wire Line
+	3225 6225 3225 6275
 $EndSCHEMATC
