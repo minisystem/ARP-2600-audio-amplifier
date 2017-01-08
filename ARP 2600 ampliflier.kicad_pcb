@@ -1560,14 +1560,14 @@
     )
   )
 
-  (module MyModules:TO220_HS346 (layer F.Cu) (tedit 58683FEF) (tstamp 58686964)
+  (module MyModules:TO220_HS346 (layer F.Cu) (tedit 586E564A) (tstamp 58686964)
     (at 117.75 133 270)
     (descr "TO220, standard design, with 11°C/W heat sink")
     (path /58511577)
     (fp_text reference U3 (at 0 5.08 270) (layer F.SilkS) hide
       (effects (font (thickness 0.3048)))
     )
-    (fp_text value LM7912CT (at 0 -11.43 270) (layer F.SilkS)
+    (fp_text value LM7912CT (at 0 -11.43 270) (layer F.SilkS) hide
       (effects (font (thickness 0.3048)))
     )
     (fp_line (start -7.75 -4.25) (end -7.75 -10) (layer F.CrtYd) (width 0.15))
